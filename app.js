@@ -1,0 +1,1 @@
+import './js/promessall.js'
